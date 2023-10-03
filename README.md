@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-My name is Perceval Beja-Battais, I am in the Master's degree [Mathématiques, Vision, Apprentissage (MVA) of the École Normale Supérieure Paris Saclay](https://www.master-mva.com/).
+My name is Perceval Beja-Battais, I am ia PhD student at Centre Borelli.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PercevalBejaBattais&color=blueviolet" /> </p>
 
